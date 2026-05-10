@@ -235,7 +235,7 @@ pip install pandas numpy matplotlib seaborn
 
 <div align="center">
 
-**[ Priya Sankar Mandal]**
+** Priya Sankar Mandal **
 
 <br/>
 
