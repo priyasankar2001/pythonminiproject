@@ -235,10 +235,7 @@ pip install pandas numpy matplotlib seaborn
 
 <div align="center">
 
-**[ Your Name Here ]**
-
-📚 Course: *Data Analytics with GenAI — Python Project Assessment*
-🏫 Institution: *Career 247, An Adda Education Company*
+**[ Priya Sankar Mandal]**
 
 <br/>
 
